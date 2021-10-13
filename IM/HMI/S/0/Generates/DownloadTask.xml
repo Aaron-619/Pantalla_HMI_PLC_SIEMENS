@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="16.0.0.0"
+    CreationTime="2021-08-27 03:22:04 (UTC)"
+    Runtime="SMART"
+    RtProjectName="HMI_PROJECT.HMI_1[KTP700 Basic DP]"
+    RtProjectFolderName="HMI_PROJECT.HMI_1[KTP700 Basic DP]"
+    DeviceType="KTP700_Basic_DP"
+    DisplayOrientation="0"
+    RTReleaseNo="16.0.0.0"
+    ImageReleaseNo="16.0.0.0"
+    RTCV="16.0.0.0"
+    PRCV="16.0.0.0"
+    FirmwareFileName="KTP700dp\16.0.0.0\KTP700DP_V16_00_00_00.fwf"
+    RuntimeFileName="KTP700dp\16.0.0.0\KTP700DP_V16_00_00_00.fwf"
+    RuntimeAddonFolderName="KTP700dp" />
+  <FullDownload>pdata.srt</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.ORIE.cnk</FullDownload>
+  <FullDownload>pdata.ETH0.cnk</FullDownload>
+  <FullDownload>pdata.IF1B.cnk</FullDownload>
+</DownloadTask>
